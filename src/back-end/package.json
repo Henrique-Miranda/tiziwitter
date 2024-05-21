@@ -23,6 +23,9 @@
   "homepage": "https://github.com/Henrique-Miranda/tiziwtter#readme",
   "dependencies": {
     "fastify": "^4.27.0",
-    "mongodb": "^6.6.2"
+    "mongoose": "^8.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
   }
 }
