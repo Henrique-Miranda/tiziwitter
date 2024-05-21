@@ -1,0 +1,28 @@
+{
+  "name": "tiziwtter",
+  "version": "1.0.0",
+  "description": "A twitter like social media platform, made with NodeJs, MongoDB and React",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --no-warnings main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrique-Miranda/tiziwtter.git"
+  },
+  "keywords": [
+    "Tiziwtter",
+    "Twitter"
+  ],
+  "author": "Henrique Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Henrique-Miranda/tiziwtter/issues"
+  },
+  "homepage": "https://github.com/Henrique-Miranda/tiziwtter#readme",
+  "dependencies": {
+    "fastify": "^4.27.0",
+    "mongodb": "^6.6.2"
+  }
+}
